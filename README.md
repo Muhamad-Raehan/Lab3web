@@ -40,7 +40,7 @@
 
 
 
-# 7. Membuat Form 
+# 6. Membuat Form 
 ![Membuat Form](https://github.com/Muhamad-Raehan/Lab3web/assets/116246238/0526282c-64e4-42c7-87f6-c3414c6b90d8)
 
 ## Hasil Form
@@ -48,7 +48,7 @@
 
 
 
-# 8.Membuat style Form
+# 7.Membuat style Form
 ![Menambahkan style form](https://github.com/Muhamad-Raehan/Lab3web/assets/116246238/a2692054-d5cf-4aa3-80c5-9a729b520d41)
 
 ## Hasil style Form
